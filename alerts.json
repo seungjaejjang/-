@@ -1,5 +1,32 @@
 [
   {
+    "stock": "일진전기",
+    "title": "[리포트 브리핑]일진전기, '비수기에도 중전기 체력은 개선' 목표가 125,000원 - 유안타증권 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sdmgwalZ0RGlrZnFTMkhoRTN6NllOMVo2dTlyalRMaTk1cGY2clVIa2NZSGJvM0NPcTNmTHRnWEpkVC1tNGdjZVA5aWJob1pKdkVXal9RcVU3WC1Z?oc=5",
+    "source": "뉴스핌",
+    "published": "Wed, 07 Oct 2026 04:08:00 GMT",
+    "checked_at": "2026-10-07 04:27:27",
+    "sent": false
+  },
+  {
+    "stock": "대한전선",
+    "title": "[리포트 브리핑]대한전선, '환율 영향에도 고수익 믹스는 개선' 목표가 48,500원 - 유안타증권 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ETy0zRGUyb1lNMFlZMFBYcGsxLVd2RW5KVnBpWEdfOWVXZEJzVGZGalZORDc5dFJvQmtkcFJDVWFoOTBrNEZ6bVZwczEzclVQYXNweS1jT3l4Z3F6?oc=5",
+    "source": "뉴스핌",
+    "published": "Wed, 07 Oct 2026 04:08:00 GMT",
+    "checked_at": "2026-10-07 04:27:27",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "SK하이닉스 방류 하천 염소·황산이온 농도, 'FAO 권고치' 초과 - SBS 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpc2pFRDAzT0JWYnVaN0FZTzdLSmwxWmRsVEVVUW5BZmpHN2ZMU0FoQmI3THFFUWFsVXVhNGVTVjYzSFF5YzNjRjFzekZobnU4OEpMcEFRUUUyUzlKUjNTQTBlMTAwTXZVYlE?oc=5",
+    "source": "SBS 뉴스",
+    "published": "Tue, 06 Oct 2026 00:54:24 GMT",
+    "checked_at": "2026-10-07 04:27:26",
+    "sent": false
+  },
+  {
     "stock": "SK하이닉스",
     "title": "SK하이닉스, 충북교육청에 '몸활동마라톤' 지원비 5천만원 전달 - 매일경제 마켓",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4YkpycUs5WUZidkNaV0hVNWVQZ2pCRlNtbzNVR3NqcFhBZGxxS25NTlg2U0V1QnRjYzItUlo3Qk1CNmRNMWFfU3E2UlZYMWJPN1E?oc=5",
@@ -2670,33 +2697,6 @@
     "source": "아시아경제",
     "published": "Wed, 30 Sep 2026 23:05:00 GMT",
     "checked_at": "2026-09-30 23:22:47",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "SK하이닉스, 목표주가 340만원 유지하는 이유…\"메모리 수요 견조\"[클릭e종목] - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ycmJTcFZ3UUpFQUkxdGYwWnZCSlpUcEV0OFU4RlRrdHhzeUx0ZVJhM1Jna0RpMy1xOE5naUg2Rkc1NXdoblFibTVrZHdqRGZIa0ZwejhzT0xCS21QY1VoNQ?oc=5",
-    "source": "아시아경제",
-    "published": "Wed, 30 Sep 2026 22:15:00 GMT",
-    "checked_at": "2026-09-30 23:02:30",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "SK하이닉스, 목표주가 340만원 유지하는 이유…\"메모리 수요 견조\"[클릭e종목] - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VaWZfaW1OaG9iSGdISWZJMU5qUWY3MV9mYW1Wb0g2UEdVbHB0NHptVktyVzlZM3ppM1VMWmcxTlZWQVl6bUEyNzJIZjFNTkZ0U2Q4c25XZUJHckJyd3pKOGJR?oc=5",
-    "source": "아시아경제",
-    "published": "Wed, 30 Sep 2026 22:15:00 GMT",
-    "checked_at": "2026-09-30 22:38:03",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "\"연말까지 역시 삼성전자·SK하이닉스\"…HBM4 가이던스에 시선 쏠린다 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tWWtuSGg2SHJFS2RXUnIyR1BZLXFpRzdWdUFBZzhJc3ZHbmt6MGRmSzNRenlaSFdvTGs3Rnp6VzExXzFnWEU2U05SWkRmSk41eVBvYnk3eWpVZThJYUVTStIBeEFVX3lxTFBfbllsOGdxcGRMcXVzOGd0MWQ4VUxaaFUwQ3h1eGtKSjR6ZlowaFYzcC1GdlRyb1lHUVNPM1F0NUJ2RWFOc3FZRkpGZHBNOWJrcWctQlBPOWtpSlFDbEVMUENKZ3FxeGZ4RVppQng2b3NMQ3NBdUhTNg?oc=5",
-    "source": "뉴시스",
-    "published": "Wed, 30 Sep 2026 15:48:00 GMT",
-    "checked_at": "2026-09-30 22:03:36",
     "sent": false
   }
 ]
