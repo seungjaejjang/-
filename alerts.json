@@ -1,5 +1,41 @@
 [
   {
+    "stock": "LS마린솔루션",
+    "title": "LS마린솔루션, 말레이 해저케이블 시공 - 서울경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZSDJWQzZzVTUwOTM5cFgzTFN6QnRIeUZhREhVZDZvTFd6WWJCR01uX1FDS3RCMUlnMk42b0t6UnkzNkJTWTlnLTE0eDZOMDFMQnfSAVNBVV95cUxPX084OEpKUHlMUXdkUnRoV2dVOHNPaHFKTF9vVzRPcGVPWmRaX2NnMzh0SXl2QUY2OW1BODZMYzc1bGNKYklFTnl2T3FsWVUyYzhjOA?oc=5",
+    "source": "서울경제",
+    "published": "Wed, 14 Oct 2026 07:37:28 GMT",
+    "checked_at": "2026-10-15 15:58:15",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "2주새 반토막, 고점 대비 88% 급락...하이닉스만 담았는데 왜? - 매일경제",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ISmJ4UkxNMTQwa2RuMGRBNkM0OVdaWF9rYURzRTJDQk8wVjh4WDhOZFBpT3Q5NXFya1lzTmJaYnItUGdVLTJ5bmx6UHhUUEVfZHd3cw?oc=5",
+    "source": "매일경제",
+    "published": "Thu, 15 Oct 2026 07:48:33 GMT",
+    "checked_at": "2026-10-15 15:58:14",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "코스피 7.5% 폭락… 불안한 ‘반도체 코리아’ - 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEpRLWxlRW5hVV9YNURmRUEwTzg3dVhNRW9LWkY5MHhtdVZNb1VhT2p2RjIxU0hDMnktYXdBRWUxSnFIdmlmam1TWE5DdzRWZHRTZFZfSUQzSlZHb3huN2lWa0FjTXlPODg5SzVxUHpZWk1haXlxUy1vbXFHRHlHZXUxWWRPbXFPb3FEMWt3?oc=5",
+    "source": "조선일보",
+    "published": "Thu, 15 Oct 2026 15:43:00 GMT",
+    "checked_at": "2026-10-15 15:58:14",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "삼전닉스에 ‘발목’… 주요 반도체 ETF 수익률 줄줄이 하위권 - 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2UtN19nQlh2dW9wNGZKOEhhRnNFczI5WV80bkVGbFFOQ2ZNSHZ2WUdqSnpKRTZqWlhkeWZybVY4aFRtZ004dnE1MmdxXzBVYUVqMFRTWUxSU0xmNFV0OVlzZ2xGYUMwNmFzXzBMRmNXNmxEMmJMYkxNdzZHT3BINQ?oc=5",
+    "source": "조선일보",
+    "published": "Thu, 15 Oct 2026 15:35:00 GMT",
+    "checked_at": "2026-10-15 15:58:14",
+    "sent": false
+  },
+  {
     "stock": "SK하이닉스",
     "title": "HBM4E 넘어 차세대 메모리까지…삼성·SK하이닉스, AI 반도체 기술 경쟁 격화 - 조선비즈 - Chosunbiz",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUlZFMWotVkJOWUVXTmNXMGJJOXNtbFNuc25ra2NfVTBzcG1JWm9Ka19DOWdMU1NtSFJ5cHNLTHR5dkNZb0d6aV9CeUhMVTVTZWU5QkdjSzZqckVibGwxb3VfRWNVTERreGgybVhQTGhDaWVnNU41cUtxakFXRXFyZWJn0gGWAUFVX3lxTE5Odkhwc3JBa3laaDJLS2YxT2RZVWdUNEFCcHNMV1VRSnEyY1NmWWo3SGRVLXVhME9VV0lFVElGbmhmMlVwNUJlRWRkb1ZlSHVtcXd0eGg4VVlYOFg1QUFxdW50SHROb3RES0xFZHo2Mk9HUElpVmwyTWk4UkNScUR0dExPRDl0OWZkZnhvM2NNaklIQWNyQQ?oc=5",
@@ -2661,42 +2697,6 @@
     "source": "뉴시스",
     "published": "Mon, 12 Oct 2026 00:37:05 GMT",
     "checked_at": "2026-10-12 04:12:17",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "\"4년 뒤 수요 20배 폭증, 삼전닉스 새 먹거리 찾았다\"…AI·데이터센터 이은 '세번째 성장동력' - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95bzFCX281WWtEQW1rSk1PNm4tamRfTEZQMDZpellaOUl4cHZ3NjNXVm5WckY5TlZiWUI1R2l1Tnl5cmd3YTQwbkdSZ2J0VUFQV1FEcDJpbnFJYVc4RnhJZQ?oc=5",
-    "source": "아시아경제",
-    "published": "Sun, 11 Oct 2026 10:12:00 GMT",
-    "checked_at": "2026-10-12 03:58:20",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "반등 활로 못 찾는 코스피…역대급 삼전 실적에도 오히려 낙폭 확대 - 매일경제 마켓",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02ekhRRjF3V3lsV1lJaUtvSGRNTXdTaGpxcGZzU1lyTjlBN3NHVG4zSDBkbU5FVl9VSnZfOVJrZHJyanFYSHZZQS1qbjNtQ1NKa1E?oc=5",
-    "source": "매일경제 마켓",
-    "published": "Mon, 12 Oct 2026 02:45:57 GMT",
-    "checked_at": "2026-10-12 03:58:20",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "[리포트 브리핑]SK하이닉스, '환율을 이기는 호실적 예상' 목표가 4,000,000원 - SK증권 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SekplbWpfZmh0ZEd6ZWZGd25MMmJUc1FyblR1U09sV1R0WlRPTnRPTGNLMk5WQm12OVBiYU1TSDgzdlVaSVRDcEUyV0NXMU1YeEJJWnVVbUk4NUg0?oc=5",
-    "source": "뉴스핌",
-    "published": "Mon, 12 Oct 2026 03:23:00 GMT",
-    "checked_at": "2026-10-12 03:36:07",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "실적은 역대급일 텐데…SK하이닉스, 높아진 기대 속 '쪼개기 상장'에 고민 - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GZDg1MlhabTc5bWJxZ1lqSTJoQ2NhNGk3eGcwdUVqaUh4VVhZZW5JYkFGcXlXc3plQkIyQzFCb19abDNCZ05OWmlRTG9ZeU13bUF5cEpwU1lGb3ZEUWw0LQ?oc=5",
-    "source": "아시아경제",
-    "published": "Mon, 12 Oct 2026 01:44:00 GMT",
-    "checked_at": "2026-10-12 03:36:07",
     "sent": false
   }
 ]
