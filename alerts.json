@@ -1,6 +1,87 @@
 [
   {
     "stock": "하이트진로",
+    "title": "하이트진로, '아름다운하루 특별전' 기부물품 모집 시작 - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mSlNDQ0hlUk5NYWV0dzRGTzFMWklVMzU5QVNMYThKWjBhMDZETGtWbk00T3p1aE5FVGItakZyZklMVFY2T0pweklGRk53WXlxdHlYV0pjS3hUNG5CZW9R?oc=5",
+    "source": "뉴스1",
+    "published": "Tue, 20 Oct 2026 23:55:04 GMT",
+    "checked_at": "2026-10-21 00:54:56",
+    "sent": false
+  },
+  {
+    "stock": "하이트진로",
+    "title": "하이트진로, 협력사와 함께하는 ‘아름다운하루 특별전’ 기부물품 모집 시작 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IcUVyZ3FJT0k1ZXpLUEZmUHRYcHFKYVJ3dTVSd1lPRGJOSGZMcUxjcFR5WWh0dTEzNHlyYzFTaUNuUU9GWWZYVkpCWWpPVGg4cjFWNFQxRzNfdw?oc=5",
+    "source": "한국경제",
+    "published": "Tue, 20 Oct 2026 23:47:04 GMT",
+    "checked_at": "2026-10-21 00:54:56",
+    "sent": false
+  },
+  {
+    "stock": "LS마린솔루션",
+    "title": "LS마린솔루션 3분기 영업이익 69억원…작년 동기 대비 234.7%↑ - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RURpX2dhY3NBVUFPZ2o1S1hWak9mNlFkV2lsQU91a2ZSeEtBWUlfOG5JZzBINnloV09sZ1FuYXhibk1GaHYyaTBvYUd3UzFrcnFlR3NXXzFsMkXSAWBBVV95cUxPY1VtX1hHTnBnOUFiVnZpdjIzNzhmY2taamxudW9CQ0lpc2JHMmN5aUNsdnF5cXhsY2lhb3YtemlsTHdtMUpQXzlFX0Z5Wk8taVFMd05TeGlja2l3ZG9uMGw?oc=5",
+    "source": "연합뉴스",
+    "published": "Wed, 21 Oct 2026 00:35:18 GMT",
+    "checked_at": "2026-10-21 00:54:54",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "“하닉 470만, 삼전 67만 간다”…파격 전망 내놓은 노무라의 분석 - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LcEtGT2hobjFfNlhxM1plSVRzN09sanV4OUc4OEg1WlBBSl9PSDdLWjBtaGdqbzUtTDZnUmtka3BmQXBmNUJ5RjFKRmdFakFpMHc?oc=5",
+    "source": "매일경제 마켓",
+    "published": "Tue, 20 Oct 2026 09:00:44 GMT",
+    "checked_at": "2026-10-21 00:54:54",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "삼성·하이닉스 '돈벼락'에 강남까지 들썩?…20만명 움직이나 - 이데일리TV",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94UlRubGJ4S3I0M1hXQ2wtYzdqRzRPVUFxZ1ZnMGlRVXE0eWFKZ0Ywd3ktMFNRdl9fbmVrbUY0cW5uYlQyUGhzRnhxU0ZSa0wyQ3AzYjhCVW9JMFFhVDdPUFdaemVPRllDSHRvWVBkajVtUmd2MlJUQVdOMA?oc=5",
+    "source": "이데일리TV",
+    "published": "Wed, 21 Oct 2026 00:20:00 GMT",
+    "checked_at": "2026-10-21 00:54:54",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "美 AI 서버 실적 호조에 삼성전자 4%·SK하이닉스 5%대 반등 [이런국장 저런주식] - 서울경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jT3Y0SHdXQVFkX1RFSFVGZUtaTHJUSk9UZ21nUTctSDV2WUVMOWZWQVd4Xy1UVDBmeFNnZm11VXlfbTRidzB6WXo0YUllU1JWcVE?oc=5",
+    "source": "서울경제",
+    "published": "Wed, 21 Oct 2026 00:18:33 GMT",
+    "checked_at": "2026-10-21 00:54:54",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "[속보]삼성전자 3.8%↑ SK하이닉스 5.9%↑ 출발 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WTDVpdGluaThoSHlSbmNDckRacG9qcWhrYjNXbndHck1vSURSdXh3RThlRk11YW50R1dIeGJiMXpoYjc3Vm43ejY5QzRMbVJscTN0eDFvMXE4TWZNMnpYZtIBeEFVX3lxTE9RY2JOZllxRXhLWXpVek5nZ1BzdURRODczeTdjZVY2cndMSW5KZXRfM3RQN2N2dGhTRnNKSEo4REd3cFphQmNkdF8tSlV6ZjFxeTBaNWZYcFlrcWJYd01RRmZHaV9oVlpHWEMwYXhoVmJlM3daamZhLQ?oc=5",
+    "source": "뉴시스",
+    "published": "Wed, 21 Oct 2026 00:03:40 GMT",
+    "checked_at": "2026-10-21 00:54:54",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "삼성·하이닉스 '돈벼락'에 강남까지 들썩?…20만명 움직이나 - 마켓인",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ibHYzOHdOYmg0N01tZnB1QkZCa09vQ0k4NmY2eU95Um9WU19QNUpLakF4TUpiTkszTEJiWUc4U3VxWlBrMU50cUp5RW1qM0pGWGx0c2w4RnBlMC1oMmQ4djR4RVlqRXhhRkc3VXQ2aWdfTGs?oc=5",
+    "source": "마켓인",
+    "published": "Wed, 21 Oct 2026 00:20:11 GMT",
+    "checked_at": "2026-10-21 00:54:54",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "“D램 22% 마이크론이 멈춘다”…삼전닉스 웃을까, 개미들 주목 - 마켓인",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GX0VHZXIxQ185MGlDZXdBOHFDbWVGeXVIYnF3VGF5SlBCQm01bC0ycWJNRXZ0Q29LdzdjcVo3M0loTU1hLU52LTlfWGhFZDBkaDBXZjJzWUN0Y21BTXktQUVoSXdScllONDluQjRleWc1NFk?oc=5",
+    "source": "마켓인",
+    "published": "Tue, 20 Oct 2026 23:58:23 GMT",
+    "checked_at": "2026-10-21 00:54:54",
+    "sent": false
+  },
+  {
+    "stock": "하이트진로",
     "title": "하이트진로 “일본 기린맥주, 아시아 최초로 한국서 만든다” - 경향신문",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IbDA3TVh2T2FNY1F0b3Y4MGNGSGtRUW9EekNVc1U0SEZGQnZxOTIyaVdLSDlCbTJNUlVobjlRVFhpTzBwU2hVQ0lNYm5GQUNLMnVpREtxemJYd9IBX0FVX3lxTFAwM0EzQVZqYWVaN1ZoNURtVjNhWm5KeXpnM05QSkVJbXFKYXcyd04ycmdHWTRvTkV6SEUtVnJMT3dJalU4S2tTS1M5eUd1VHlVLVJYWmp1TFZoSldNRWlJ?oc=5",
     "source": "경향신문",
@@ -2616,87 +2697,6 @@
     "source": "파이낸셜뉴스",
     "published": "Wed, 14 Oct 2026 05:28:29 GMT",
     "checked_at": "2026-10-15 02:07:06",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "[특징주] 삼성전자·SK하이닉스, 장 초반 7∼8% 하락세 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13YktfODk4UlUwZHpjcWdzRzFFd1lsczBxQ0hrVGY2Z3RZZl9oaU80TnQ1ZzJOdnNIWEktY1NhWWVKTEwwY3c2UUVjVU1qRkJfRi1YZ1g4UTlmTHc?oc=5",
-    "source": "연합뉴스",
-    "published": "Thu, 15 Oct 2026 00:34:29 GMT",
-    "checked_at": "2026-10-15 02:07:06",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "[단독] \"韓 메모리 주식 매도세 과도 … 낙폭 컸던 하이닉스 담아라\" - 매일경제",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YNHJ6d0RJeERhLWRENHYxS1RIWnFtMTlBbEVMODd3MHptZFZvN05oRHNsUkpLYy1mQjQwZkZPdUd0ellwektMMlJJR1Rqa1oyeUVENQ?oc=5",
-    "source": "매일경제",
-    "published": "Wed, 14 Oct 2026 08:39:42 GMT",
-    "checked_at": "2026-10-15 02:07:06",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "[똑똑한유통] CJ제일제당, 하이트진로, 오비맥주, 삼양사, 대상그룹, 돌코리아, CJ올리브네트웍스, 제주삼다수 - 에너지경제신문",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LVmhHT1BMTE1UOGxORndqZHU5RlNDNDFTVnE5RkM1TmpIaVBoUGFienk2LWkwYklwaS1adkZMMXRwVU02SFJFbnA4NFR3aWs0bGoxMzNwcjRJSGs?oc=5",
-    "source": "에너지경제신문",
-    "published": "Thu, 15 Oct 2026 01:00:00 GMT",
-    "checked_at": "2026-10-15 01:36:44",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "하이트진로, 준법경영 국제표준 'ISO 37301' 인증 획득 - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01eWd1NDVRSXNZT2d1V2poWWRhSktFR2w4UjRGNlF6Y1huNFZLUTVzWGxYR01pOEczdk5HMkFQa3UtQzFEQXp3c3hMclEzUQ?oc=5",
-    "source": "전자신문",
-    "published": "Thu, 15 Oct 2026 00:56:44 GMT",
-    "checked_at": "2026-10-15 01:36:44",
-    "sent": false
-  },
-  {
-    "stock": "대한전선",
-    "title": "대한전선, 美 초고압 전력망 프로젝트 턴키 수주 - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DQ3ZtdjlvRlprc1lUUHF4Z0tMQS1ZNW1ROE5jVkVOdk1wUGtHVDFxRXd4WERlMkpMaDVsQWVVaG9kajd5eVptc0JKTml3Zw?oc=5",
-    "source": "전자신문",
-    "published": "Thu, 15 Oct 2026 00:20:19 GMT",
-    "checked_at": "2026-10-15 01:36:42",
-    "sent": false
-  },
-  {
-    "stock": "대한전선",
-    "title": "대한전선, 美서 1200억 규모 초고압 케이블 공급 계약…전력망 시장 공략 가속 - 서울경제",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pbjNrVjdYdnNUNUN3dUY3RmlYdzBHNkZhUmdZQTdkNHhqaGVjYWZLZ05GaTF5ZDF1LVA4dmJzM1k0b0JTc1FxNUk5SmNxT216LUHSAVNBVV95cUxQSUZzUzJvY19WakM2bVFsY3o2c2VTVGlwdTl2VGtfWnFxMXpRLTM1RlJ3R2prb3ljZkU1cXRFNDNjNTZTLXpEZUNPY3M4Um14bmdFUQ?oc=5",
-    "source": "서울경제",
-    "published": "Thu, 15 Oct 2026 00:49:34 GMT",
-    "checked_at": "2026-10-15 01:36:42",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "[특징주] 삼전닉스, 프리마켓에서 6~7% 급락 …SK하이닉스 시가총액 1000조 하회 - 조선비즈 - Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMXBVcU5UNzJhejlkRXdFSTNjekNWd1NoWmVPTmw1QlpfSVVoSC1tWXZRVVhUdGdnZ05HNzVMUTZSeFcwYzZReTVsbUcwdWlqX1JLa1dKLXNkdFhPenpEbk9GRW5TRVhOQ2JIQzJtZVhnODI4cm00Z2d6YmdVSHZzUzB5M0VyNFMw0gGcAUFVX3lxTFB2NURJd1Q0WDZEd0xuVzNRMWRwS2V1Mk5LUFBoLUo5SW02UWJnRWtpU3pKZXNJYkpWODZfV04xMC1TUks3aTFJanl6dUNLREJUOUhLTDNBRExqNVU5Y0tXWVg0ZWhBWXZHeGNtSGl1cXMtLU1ybENPejZwMVhDRHc5bEpwUXBNYm1SQmV0b0Z4b1A3cVVkZXFWWjRDeA?oc=5",
-    "source": "Chosunbiz",
-    "published": "Thu, 15 Oct 2026 00:01:00 GMT",
-    "checked_at": "2026-10-15 01:36:41",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "하이트진로, 규범준수 경영시스템 국제표준 인증…\"경영 투명성 강화\" - 뉴스1",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5SFdpMTdJd3J0WDFMUXdzWEhlNlZHNmRONXVPYWR4OEJIWDJ4QWEwaW12Zi1qZW1DeWRDQno5b2JwY0tkN0tJUUV1bWVHZ3FLX1FpYmhIQ3NwUTlmc1ZV?oc=5",
-    "source": "뉴스1",
-    "published": "Thu, 15 Oct 2026 00:15:08 GMT",
-    "checked_at": "2026-10-15 01:03:55",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "\"준법 리스크 미리 살핀다\" 하이트진로, 국제표준 인증 취득 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DdlAxdGE3WVhvc09iOHRkMGhxSnhOd2tuNTVhc3pLQlF1YXd3UjBQVVN2c2FLUHNvY2dQRmg1WFBIcWVQbms3VDRzTS16YTBNUVdRWk5GMmRrNzBxRm1rQ9IBeEFVX3lxTE14QXBzOTlaS1U3WmppNGhKYkRvY2otVmdrczRNWU1iM1NFR01pam10MDFmLUgwVEJYSjZYSVg2blZVdlBQc0tRb1VrTkRPejNqVjFxYUlNUjlLcnZLdk1nMWo2UE1lU0I0eDlwdmRDSFppempBNHZ6bw?oc=5",
-    "source": "뉴시스",
-    "published": "Thu, 15 Oct 2026 00:47:50 GMT",
-    "checked_at": "2026-10-15 01:03:55",
     "sent": false
   }
 ]
