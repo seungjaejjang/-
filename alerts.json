@@ -1,5 +1,50 @@
 [
   {
+    "stock": "대한전선",
+    "title": "대한전선, 독일서 380㎸ 초고압 전력망 턴키 수주…유럽 누적 수주 5000억 돌파 - 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBraG5NRHczTmFyc0JnYVRuYlhnOUk4SnhmSnRIRGUzQ3VWZW1JcHVZbnlEN0Zoanh4OUt3eGFla0xObjFTc2VUUEJiSWVFZVp5MzY5MUVWVm93NzFJQzFwRA?oc=5",
+    "source": "아시아경제",
+    "published": "Tue, 27 Oct 2026 00:09:10 GMT",
+    "checked_at": "2026-11-01 06:30:24",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "“SK하이닉스 채용 해택” 내건 AI해커톤, 시스템장애로 대회 중단 - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXcVIwVFVjajVleTh5c29LUzhlaExoaF9oT1lJMnExNmVoRHI0RTAyQnp6VDZvTU5RVWppZlN2NGkwNmJXWW4zUVdHZ2RLQkhMVzNHSmR3?oc=5",
+    "source": "중앙일보",
+    "published": "Sun, 01 Nov 2026 05:55:56 GMT",
+    "checked_at": "2026-11-01 06:30:23",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "중국 CXMT '4F² D램' 샘플 성능 \"목표치 달성\" 주장, 삼성전자와 SK하이닉스에 우위 강조 - 비즈니스포스트",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sUTlGZUJudFFqZU9HcmNUeHVJbWtmWU1aOUlzRElHSDh2dG9xMVBaVnBLNUszTndVTVppaVlyT0paUFhoNVFId2RrWjV2dnI5UmxVQ2R1WUc5cWpiNS1QRS0zRDQ1cjVwRXRiSWlPTnRyTkk?oc=5",
+    "source": "비즈니스포스트",
+    "published": "Sun, 01 Nov 2026 04:30:49 GMT",
+    "checked_at": "2026-11-01 06:30:23",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "채용혜택 내건 SK하이닉스 AI해커톤, 시스템장애로 예선 중단 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OWWVHY2lFVVl1RUtrT2FiT2owS1JocmxHRVpmYjJfN1M2T3RjTFp5a3lBOTc3TWlKV2s1WWo4UnN5WDZsQVZfRUVfQlJDRDhLWWF3ekRIT1JITE0?oc=5",
+    "source": "연합뉴스",
+    "published": "Sun, 01 Nov 2026 04:41:18 GMT",
+    "checked_at": "2026-11-01 06:30:23",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "오늘의인사-행안부, 기후부, SK하이닉스 외 - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jRk5jTUduMXNPTDk2OS1kNU5GSzlmU0VXLS1oU1hTbXNBVFlfaDAtUnNOLWtSeG5rTlZLOHBxSWZ4enRyU05IUDA0U1llMHhELVlYU2dpbGQ4d9IBX0FVX3lxTE9GNmlnUDZwQllKMF9VWHI4Vm9rTzk2TldzWjFMUGNfcVVDYmRxdnY3OWNLMDkwc2lfNzEzYXRCcWdJT0dvUVBPazRfQ01nc0N2LTN0dEVHNl9Sa0g5SVNN?oc=5",
+    "source": "경향신문",
+    "published": "Sun, 01 Nov 2026 04:25:00 GMT",
+    "checked_at": "2026-11-01 06:30:23",
+    "sent": false
+  },
+  {
     "stock": "SK하이닉스",
     "title": "10일중 8일 주가 같은 방향 삼전닉스…3분기 실적 땐 엇갈려 - 매일경제 마켓",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4N2NBZFNwSlpibWcwLXhCZ2U0NThybHoyRkJOUzhVUURlVG1lWmFSWko4cDRteVo5cnlpMFlRLXc3S0xEMEZNTmZmZW8tNERQYWc?oc=5",
@@ -2652,51 +2697,6 @@
     "source": "마켓인",
     "published": "Mon, 26 Oct 2026 06:07:33 GMT",
     "checked_at": "2026-10-26 06:57:12",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "하이닉스 2배 ETF, 美 상장 석달 만에 청산…고점 대비 60% 넘게 급락 - 매일경제 마켓",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HaXhRX0RNYnA1QU9QQ09JUEc1TFRxZURlUXFMN1V6d29yM0NRb3MtTk1DakdmV214a3hKbElxUmZvN2hfcnV4emcwVFFjSlVFSWc?oc=5",
-    "source": "매일경제 마켓",
-    "published": "Mon, 26 Oct 2026 06:14:31 GMT",
-    "checked_at": "2026-10-26 06:57:12",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "SK하이닉스 미 레버리지 ETF, 상장 석 달 만에 초고속 청산 - YTN",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4LS1QeU5GYzNsMElMRFJJX3NVOW44Qy1WNWkyTkFzTkR2V3JCV3FjZ1ZhZmxLRXY0TU5TelBiaFR0UlFuR1dBNGM5UFFRdFN5ZjNSREdBc3dKVUNCZGc?oc=5",
-    "source": "YTN",
-    "published": "Mon, 26 Oct 2026 06:18:00 GMT",
-    "checked_at": "2026-10-26 06:57:12",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "하이트진로, 제주 닭머르해안에서 올해 4번째 환경정화활동 진행 - 이투데이",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PVXFTQ3BIQlpVdUJtMG94Y2c2TmRyd1BvYVVTb3AtaVo3Y2M5ZXdKYmZNM3VhRlJCRFFnd195MkNzNDFHejF6SG50T2xXVmpvS1djUV8wUXd0a0FXdlljbDdlQ0JMbkI2NFlZMTVweWpZVGMx?oc=5",
-    "source": "이투데이",
-    "published": "Mon, 26 Oct 2026 01:02:00 GMT",
-    "checked_at": "2026-10-26 01:41:09",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "하이트진로, 제주 닭머르해안에서 올해 4번째 환경정화활동 진행 - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFNnhnNXI2OWFiaS0zM19TaGhsSldkSGlkNlFwaEJHV0xDTVpqaVczb0tlV2hNZE40OVAtUnpTQnZVZ2hXTEdVTjA0RXRZZlZLdVNzOENBRy1VZw?oc=5",
-    "source": "한국경제",
-    "published": "Sun, 25 Oct 2026 23:47:45 GMT",
-    "checked_at": "2026-10-26 01:41:09",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "\"제주 바다를 깨끗하게\" 하이트진로, 올해 해안 쓰레기 4.5t 수거 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LZkhudGlHU2ppVVROOHNReGdCeGxoSG1RbUMzNmF1amhocXp4X3VKS3lXVE5iRUwwRG1YRFp1VEQxMjJnbkpubTdwdEtmZzdFeERXcExnUERFc1pUbnA5YdIBeEFVX3lxTFBLWVJkM0ppWEFyeWJ3NC1YcDludHlPSUZmU2RMRzR2T3hLR3lDYXZsU2dOUjdqQ2syWFhRZzVHUkxmZjdRQzBFQUo0Q1YtZUNZSWpIYVBaX1hWbHp4VUFPTS04SXJRd0hhdUxfVlV4cFNFcFRnT29abg?oc=5",
-    "source": "뉴시스",
-    "published": "Mon, 26 Oct 2026 01:05:37 GMT",
-    "checked_at": "2026-10-26 01:41:09",
     "sent": false
   }
 ]
