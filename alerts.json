@@ -1,5 +1,131 @@
 [
   {
+    "stock": "일진전기",
+    "title": "특징주, 일진전기-전선 테마 상승세에 5.69% ↑ - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pNVhJWGRPYW02bnZhQ1VuTFQxNkJ1c0oybHVsa2FuZElMd3hyRVY3angzZEJnNmhSMXdKOTBUdjUzZ1ktRlROZW9QSC0yVHo3Tmc?oc=5",
+    "source": "매일경제 마켓",
+    "published": "Mon, 02 Nov 2026 01:17:36 GMT",
+    "checked_at": "2026-11-02 01:38:03",
+    "sent": false
+  },
+  {
+    "stock": "대한전선",
+    "title": "대한전선, CLV 선명 ‘스칸디 커넥터 → 대한커넥터’호로 변경 - 헤럴드경제",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QeWh2STk5UlZuNkpOWUh4b2U0czIxZ21qSVJKdFVYUHNreUlkT1pJZHlqVk1mXy1OTTAyY0NzUm9lUlpQS1l6U0o5NDMyTlQ1OGFrbXhn?oc=5",
+    "source": "헤럴드경제",
+    "published": "Mon, 02 Nov 2026 00:51:50 GMT",
+    "checked_at": "2026-11-02 01:38:03",
+    "sent": false
+  },
+  {
+    "stock": "대한전선",
+    "title": "대한전선, 해저케이블 포설선 '대한커넥터'호로 선명 변경 - 이투데이",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OWnVRYXJJVXFuTnowWFZFV2tFb3RHYXpPUk1mNkZRSmNCcmZXYjJOVXJyVnJlRS04VDVCQ01rT2MwS0pMc3ZqZlBqdXIyN3MzemNxdg?oc=5",
+    "source": "이투데이",
+    "published": "Mon, 02 Nov 2026 00:21:00 GMT",
+    "checked_at": "2026-11-02 01:38:03",
+    "sent": false
+  },
+  {
+    "stock": "대한전선",
+    "title": "대한전선, 해저케이블 포설선 '대한커넥터'로 새 출발 - 이데일리",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWEZPRUpqdlNINV9jWU1naHNkRXR6NTY4RW1TWHFLblhHZmlfR25hOXoxY1c5UUdjaVJDNUtaT3ZjMjA0T0FUNXJnamU4OGk1VklWUkdIcElQZGdNaVhxYXlIalZsMXNWeGdJbEtMZExSamJrdXMweEdqYTdFVXJnSg?oc=5",
+    "source": "이데일리",
+    "published": "Mon, 02 Nov 2026 00:21:24 GMT",
+    "checked_at": "2026-11-02 01:38:03",
+    "sent": false
+  },
+  {
+    "stock": "대한전선",
+    "title": "대한전선, 해저 포설선 '대한커넥터'로 선명 변경…글로벌 경쟁력 강화 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tOTlvUW5JQm9oU2NsOUVMR3JHa0RnWW5SRGtyY2VYM2l0R2Y4OVZRbDlNdXFKTWVGMkV6ZTRTM0t6LXRTQmhtN3Y3VjFydXA4czVWcjdTY0o0WWtqWnFYStIBeEFVX3lxTE02dWFrMG5Gc0c5RzJzSW9ZVFk3bUtJMFkydmIwTTB3WU5IM2VaMjR0dllxVk1DemdVS1A5OWxtNUtObnFCYWNkWkZ5TGtNTEo4eVhkcU4wcFVobndqRktpcmNTdlhlczBPa1dGTEdqU3h3akFWc3FtaA?oc=5",
+    "source": "뉴시스",
+    "published": "Mon, 02 Nov 2026 00:40:05 GMT",
+    "checked_at": "2026-11-02 01:38:03",
+    "sent": false
+  },
+  {
+    "stock": "LS마린솔루션",
+    "title": "LS전선·LS마린솔루션, 태안해상풍력 해저케이블 공급·시공 본격화 - 파이낸셜뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Eek1Yd1JyMmoxM3REREVkQ0JsUDQyNW4tWmdWc3dVU0J0d1huWGtCZTZzWnBac0c3Q19Fblg4S2tUVHJtaVdVNTR2ZFExZUp2WWF3blhFd3NOQQ?oc=5",
+    "source": "파이낸셜뉴스",
+    "published": "Mon, 02 Nov 2026 00:35:48 GMT",
+    "checked_at": "2026-11-02 01:38:02",
+    "sent": false
+  },
+  {
+    "stock": "LS마린솔루션",
+    "title": "LS전선·마린솔루션, 태안해상풍력 해저케이블 사업 본격화 - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mc3BQMGNseFcxcnB6WkxxMjY4Tko4RmRLYzd3TWlFSVcyTnI4c1BfdW1MUERyUXhSaEJ5N01oNkZOdms3MmZvUTVKX3d4b01sYkE?oc=5",
+    "source": "매일경제 마켓",
+    "published": "Sun, 01 Nov 2026 23:45:28 GMT",
+    "checked_at": "2026-11-02 01:38:02",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "\"반도체 자사주매입은 주가하락 완충 역할…관건은 외국인 수급\" - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpYTBuSVFyMGpCU093MmFjLTlzaGplMTg0c3VRX1pzY0lZRnJaNjFZY2Q1QUhReUVsNlpObXVqTWlVQ2JodU9DbWhvMGJNTldEdWc?oc=5",
+    "source": "매일경제 마켓",
+    "published": "Sun, 01 Nov 2026 23:43:06 GMT",
+    "checked_at": "2026-11-02 01:38:02",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "삼전닉스 자사주 매입 다시 시동…코스피 구원투수 될까 - 이데일리",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVURJZ2NjeW9yMGVrSG13TkNaTEE4Mll6c1JxeWhzZXl3WE9FekVJeHkxa1N2Ti13bi0zMk13eW9GMmZPc3VGUkRYcUcwMHZEM1lkeU03Mk04b0NFY1JjeTktWGNmd0xWM0EtYklqRXZvZTZUYTZJNW5OV0ZOMjhNaA?oc=5",
+    "source": "이데일리",
+    "published": "Sun, 01 Nov 2026 22:44:34 GMT",
+    "checked_at": "2026-11-02 01:38:02",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "'인텔 쇼크' 삼성전자 3% 하락…SK하이닉스 1%↓[핫종목] - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52b2FheUU1eDk1QkpqRDBpZHQxaGFrUzl1R094MVpIYll3QUxvVExmQjdZMThYNC1wSkh2eXBkN3lOMmxmV0RodDhaNEcyWk9CcGRuX0RhYnZ5NGQxWDZZ?oc=5",
+    "source": "뉴스1",
+    "published": "Mon, 02 Nov 2026 00:43:09 GMT",
+    "checked_at": "2026-11-02 01:38:02",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "[특징주] ‘인텔 쇼크’에 삼성전자·SK하이닉스 프리마켓서 3%대 급락 - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWF9vZ1dhN2VWV1pVVHlvSHk2QkdDcUUxdlo3SF9mMkxHdjRpOXFaQ1Z1eGk0NFFnNWp2REE2UTFIQ1VBY3hRNldjMUdlRUV0V2Q0eXctOEtRSTNlSWFmZDRIZUlfM1puNzRoSHlnalIwQmIycjZfUkxPRjJvejhqbW14bDJPUGJS0gGcAUFVX3lxTE1OMjlST1lSTk51SUxsenlzUG5PejdTMV9QRzF2RXF4REZGazAteVZMb3hvU3Y1Y1ZlWWRENWQ5ekl0OVU4Q0tVWTBZYUtsUHlKNldER0wtdkR4Tmd1dGVCTEtfaDJodDhZYUFka2xpVTJtQWg5OGU2YVB2U1B0YmIxNmlKa0Vld0JBVlNSN3dJejlzSDhtdnZubFJMMg?oc=5",
+    "source": "Chosunbiz",
+    "published": "Sun, 01 Nov 2026 23:24:00 GMT",
+    "checked_at": "2026-11-02 01:38:02",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "SK하이닉스 'AI 해커톤 2026' 예선 시스템 장애로 전면 재시험 - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GdGc2YktXeDhFeF9hWGJpdXh0UXBUTFB2TFJPbDZ0Y2p4ZmxJUnVTWGVLTHRRTHU3X0M2UnpuXzI3aVFVdFYyandYelBDZw?oc=5",
+    "source": "전자신문",
+    "published": "Mon, 02 Nov 2026 00:32:59 GMT",
+    "checked_at": "2026-11-02 01:38:02",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "[속보]SK스퀘어 \"SK하이닉스 현금배당 수익 중 4.3조원 주주환원\" - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XdUFPd2F0c2RxN3hNdmpaMGpGeHRmZzVUVVo3QkNFMmF5Y0E3eXpFSjdnZ0pCa182UTB0aDN6ak1yRW9IMmt1eUU1V29ocjlPRUFEUFV4QkJKSlhmR2FUS9IBeEFVX3lxTE5pWUs3UW1VZVdaanRvTUR3OGY5S1RmZkVzVGxSZ1J2Nmt2aVAta3U3TmNfdElpOU0yaDR5NFBMZHFaT1RhRE1TeDkxREpZOE0wS3g1bHNuUmQ5YWxwVThuQUtlMWtrYVA3WjAzWGQ3ZWwwTktkWG1GWQ?oc=5",
+    "source": "뉴시스",
+    "published": "Mon, 02 Nov 2026 01:24:41 GMT",
+    "checked_at": "2026-11-02 01:38:02",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "“SK하이닉스, 목표주가 350만원”…‘역사적 저평가’ 해소될 거라는데 - 매일경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ESE44NlNhYTdiY1c4aWtDeUdCTE80aGhabDA4WHNkS3hVWDFaUk5KYVJETU1Oc2ZVVlkzOWRZVGpvdW80cFRHbllWZF9HRFRCOVE?oc=5",
+    "source": "매일경제",
+    "published": "Sun, 01 Nov 2026 23:15:59 GMT",
+    "checked_at": "2026-11-02 01:38:02",
+    "sent": false
+  },
+  {
     "stock": "하이트진로",
     "title": "\"9년 만에 새 옷 입었다\" 하이트진로음료, 블랙보리 4종 새단장 - 뉴시스",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GNlNoUGt5TE1NT2paTW1GSXJZM2UyOWdJUUkzeDRCeUJ3dHRiLVV2ZVluaThlamVDVXEtOUM0cm1DY0xWR3hhVktJQzBEdlJyU1hpVHlCSGtlYkFwVlFRWtIBeEFVX3lxTFBIQV9GMjVTTENzbHhjbzF2TUJ5NFRLcG1Tb3ZxNVFXZ2xkNFljRHhlZUFOUkQyMGV4MDBjOWd6Q2p3MW5FVldYZmNkY2FOc2E1Z0Jtdkp2Tnc5TS05QnY1OGdWSWtzejRVaE40bUNXM3NvYzdZMzA4SQ?oc=5",
@@ -2571,132 +2697,6 @@
     "source": "뉴스핌",
     "published": "Mon, 26 Oct 2026 23:08:00 GMT",
     "checked_at": "2026-10-26 23:19:38",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "SK하이닉스 내일 3분기 실적공개…주주환원 카드 나오나 - 매일경제 마켓",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JU2N0aVJNSmhTaDZiZlhWRGVid0hJODFhaUQwa3JEWDQ2V3FlLXZwU1VISUIyc2w0cU80WjJRM0FUNl9GWHFDMmM0b2MxaktOR2c?oc=5",
-    "source": "매일경제 마켓",
-    "published": "Mon, 26 Oct 2026 21:01:00 GMT",
-    "checked_at": "2026-10-26 23:19:38",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "“이번주도 반등 없으면 큰일”…삼전닉스 주주환원·빅테크 실적·美금리 나온다 - 매일경제",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MbC1rb2hhbnA0bGRGb1Z1YlFueXBJOHpfeTRHQTdDeE1SZ1lRV1dWTzFRMkhlaVVnS2JaTlpLZUViWkk4TjFFbmprUnFPXzBLbGc?oc=5",
-    "source": "매일경제",
-    "published": "Mon, 26 Oct 2026 20:45:21 GMT",
-    "checked_at": "2026-10-26 23:19:38",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "美 반도체주 일제히 상승…마이크론 3%·SK하이닉스 ADR 4%↑ - 뉴스1",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6ZTBDQ0QySXc4LXlxcUJBZmZ6Wk52VURfdVRCdmJfTWwxY0MxME9SMU15U0xERzYyR1dhZVR3cklndFdDTjZfeHhYaDhobFpPT0NwM0NKblQ5TXVuLU5zbV9FLXBOVXc?oc=5",
-    "source": "뉴스1",
-    "published": "Mon, 26 Oct 2026 20:18:02 GMT",
-    "checked_at": "2026-10-26 23:19:38",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "\"메모리반도체 장기 계약도 불황 막기 역부족\", 삼성전자와 SK하이닉스에 새로운 시험대 - 비즈니스포스트",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WNGhwNDItRnAzbjJVZklQTnBPWkFMZDd6WHlLLWROQlVHYlJMdjJWcUtBOWxTXzhkT0JoZDVnOThtdlNHOU43Rkh3UmJkcGNGV0RDcDE4YmxlSUR5cGFKWWhaSGcwWDJLS21yYUNBb29PZVU?oc=5",
-    "source": "비즈니스포스트",
-    "published": "Mon, 26 Oct 2026 02:39:38 GMT",
-    "checked_at": "2026-10-26 23:19:38",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "삼성전자·SK하이닉스 영업이익 180조 전망...주주환원책 '주목' - YTN 사이언스",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeW9tVHVuLWxYSmRya1d4Z2tYS2VjYmdVODJlZ1lYWmdoNm8teXQtNkJVWG1kQ0V2cXFaSkp4QV8xVXZxbVdqZGI3dWlxeVJ5cmxqYzBaN2xQbnNjeFdsNEE0Um9ZWFVCMFRVck4xTDcyMkY0a2hjUFF3UW9tR013N015QXFVYlpjMTZ5Mw?oc=5",
-    "source": "YTN 사이언스",
-    "published": "Mon, 26 Oct 2026 02:09:10 GMT",
-    "checked_at": "2026-10-26 23:19:38",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "美서 사라지는 SK하이닉스 2배 ETF…출시 석 달 만에 청산 - 중앙일보",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54cmtvN2pvU2JxYWxvb0hSeW9RUTUyWXA4QWIyNHZnaUVLSmF3UkFRdFVFLXR3cUlkTFlPX1NOWFVoODlzRmw4Y21POEhXeVMwZk94SmlB?oc=5",
-    "source": "중앙일보",
-    "published": "Mon, 26 Oct 2026 16:03:01 GMT",
-    "checked_at": "2026-10-26 23:19:38",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "삼성전자 내리고 SK하이닉스 오르고…코스피 5500선 줄타기 - 마켓인",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lUWpJbm9RQmVEc2hSM2NyX1RHUEl3MktBdzVwOWZVNkE2RkI4YzAtYWJfYktsbnhHZjRTVmhRSlZNdXg5anE0RFBOOXpfTklTc1dWUFB0Y0d4WmV3WkZMUkVkZ0c5MUFOS3pVUjBacU5XVzA?oc=5",
-    "source": "마켓인",
-    "published": "Mon, 26 Oct 2026 04:35:03 GMT",
-    "checked_at": "2026-10-26 19:38:15",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "'184조' 벌고도...\"주가는 왜 역주행?\" 삼전닉스 역사적 저평가 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LNTc0UEg5NEVsOTU0bTRRSmNGdkJuQm1NckszZnFHSFYtSnNXOUZ4VVI4Y29lYTlwa3dIRVBVNmJwUUN5WjhrSERHN1hpaFdrVzdjckpDNnE0aXp4V09fT0ZlYUZJVmZS0gFuQVVfeXFMTl90RUVpX3R6QmIzNHZfUHViaDlnS0U3d20zVVFjc0NsMWdYdzBhYmo0enRWaVZySWNweUJZVUhQTkdZenlCTlFMaFhKdlhFcnFIbjlZalp6Mlo1VUx3ZUZ5T1d3X2xRNlFpcFMycVE?oc=5",
-    "source": "머니투데이",
-    "published": "Mon, 26 Oct 2026 19:11:00 GMT",
-    "checked_at": "2026-10-26 19:38:15",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "하이트진로 전주공장, 환경정화·소상공인 판촉 지원 전개 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yUDV4UHpFeE55QWZVOGFzQnFFZVdrZ0FjVEJ2Y2htMVhyT2tMcFZZLTF2SzlLUVV6UGxEd21zSEs5dkpBajZJYmtDMDBJQ3VnWVJvbjJKOEwyYzNtV0V4S9IBeEFVX3lxTFBJd2tSTmI4aENRaWdzd2xhUC1kY2NZTHhIZTBibWtEd2lKcEpocS1pSU5rdTVlYzVxTUU2YTNKNVhXX3NqWVo0U2FhSjEzTXR3UlhuVHRNNTBkUlpVMXpfdy1vLV9Ncy1xRnNRbDFiMmZfdnJiUFF2dw?oc=5",
-    "source": "뉴시스",
-    "published": "Mon, 26 Oct 2026 06:11:35 GMT",
-    "checked_at": "2026-10-26 13:48:25",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "하이트진로, 제주 해안 정화 연 4회 실행…170명 참여·4.5톤 수거 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00Q3FoX2FKeWI0bnlQY2VkLWFpYzlfQlY4eW9SOG5peWoyUmFOamtCSi1BUkN5WlUtSTJQdm9seHhGY0VRdGVNT21NWEp1TmhqNGRuMUJWUFFJS1ot?oc=5",
-    "source": "뉴스핌",
-    "published": "Mon, 26 Oct 2026 04:49:00 GMT",
-    "checked_at": "2026-10-26 13:48:25",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "하이닉스 2배 ETF, 美 상장 석달 만에 청산…고점 대비 60% 넘게 급락 - 매일경제",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ySFpNbDNPdk9jNDRjbmtBdmdnOVdHMHNMTzRHdmZmVTlVXzM5NE5ma2xTSktwSzNIUG54cUFXTk4wZ3ZWdXBjRnRzQWowMTkzRkE?oc=5",
-    "source": "매일경제",
-    "published": "Mon, 26 Oct 2026 06:14:31 GMT",
-    "checked_at": "2026-10-26 13:48:21",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "美 상장 ‘SK하이닉스 레버리지 ETF’ 석 달 만에 청산 [GMC] - 중앙일보",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90ZGxxVktrdEFRQ1E2S0JlZlYtNVNnc2w2aTVrSjA3MTlsekd4Q3VfU0hCdTU3c3VnTFNUZXZoMEJFRWpzSDBTeHJaNEdkaUoyV2Z2UGZ3?oc=5",
-    "source": "중앙일보",
-    "published": "Mon, 26 Oct 2026 05:31:43 GMT",
-    "checked_at": "2026-10-26 13:48:21",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "SK하이닉스, 40조원 자사주 매입 완료…내달 5일 전량 소각 - 마켓인",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XdE9jdkJnRUFmZzNUdHoxRXZld2MzMlNBb2R2Y0Rweko0N2FmdC00RlZXaFVIUFdUZjNsR09VZ2F3OENJVlpoWFpYUmhMQ205ZkxHd1AxRWV2cmpKNXo0WndScTFoemxWU2dadGpoZWpZZVE?oc=5",
-    "source": "마켓인",
-    "published": "Mon, 26 Oct 2026 07:43:00 GMT",
-    "checked_at": "2026-10-26 13:48:21",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "솔리다임 상장 접은 SK하이닉스…주주환원 속 자금조달 셈법은 - 마켓인",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MNENFeGlMcjZKcGU2QlZqU3dOSzFkdXpTRG9QTUFObV9FX1YtNTNVZ1ZWblZOeUpqdHJCWTVONFY3Q0F5VHJsanhJVUZGekotSzJucTVFcjcxZ0hDVFZLMThMN0N4VThsN09vdmFoRWdCZw?oc=5",
-    "source": "마켓인",
-    "published": "Mon, 26 Oct 2026 08:39:55 GMT",
-    "checked_at": "2026-10-26 13:48:21",
     "sent": false
   }
 ]
