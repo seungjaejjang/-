@@ -1,6 +1,60 @@
 [
   {
     "stock": "하이트진로",
+    "title": "하이트진로의 '소맥캔' 실험…득일까 실일까 - 비즈워치",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SWE9fZ3E2MnF3bW5iYTFkZE8wUV9zY2h3NUZ3RnA5aGl6RXhfdlRiY3Q5SThQNFdmRElPaV9EeVNseldRV0hFQ25CQlZFSEFFOWNWdDRhb0U3WHA2ZzhIVWZrby1GdE9uUEc3Zg?oc=5",
+    "source": "비즈워치",
+    "published": "Thu, 05 Nov 2026 22:20:03 GMT",
+    "checked_at": "2026-11-05 22:26:12",
+    "sent": false
+  },
+  {
+    "stock": "대한전선",
+    "title": "LS전선·대한전선, BIXPO서 HVDC ‘정면승부’ - www.dt.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WTFNpZjJFcTF1R0p6Z2IyY0EtMHNTNkNBQ0dCc3FHN1kydjdlSnBuSjk4WlNudXJzeEMwbjZmaXhVaVVsRFR6bmc2SG9mUQ?oc=5",
+    "source": "www.dt.co.kr",
+    "published": "Wed, 04 Nov 2026 10:29:34 GMT",
+    "checked_at": "2026-11-05 22:26:11",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "SK하이닉스 급락에 줍줍…삼바는 팔았다 [주식 초고수는 지금] - 매일경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wb1l4eDNEWDgzZ0ltN1BRbnpKaGxwdWpqeGJMcndpeElnU0Jyc2EyNXlGUTdndnBUMXZjVFJJeElFSmRUQ0ZoT0Q4ZEwzc1QwUVE?oc=5",
+    "source": "매일경제",
+    "published": "Thu, 05 Nov 2026 01:58:04 GMT",
+    "checked_at": "2026-11-05 22:26:09",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "삼성전자 AI 메모리 호황에 3분기 글로벌 D램 점유율 38%, SK하이닉스 29% - 비즈니스포스트",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwQ1k3TFpIR290dTZUQkZsakowZVNEMko3d3dFa19FemduRExEODIzLVVURmdOSDRvVDNObzBIS0d2NzV5SklBRXJVZnczcWZBbnlWakl1S2hNS2FNdjZOV3VmQ0hjSjluaWlvNEJjeDd4eVk?oc=5",
+    "source": "비즈니스포스트",
+    "published": "Thu, 05 Nov 2026 07:48:16 GMT",
+    "checked_at": "2026-11-05 22:26:09",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "[적중! 대박 예감] '금양그린파워, 현대모비스, SK하이닉스' 내일장 예감 좋은 대박 종목? - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxZmxxUnZfLWdsdEFvNm5mQm1ScDFTMFVTSEdSS2JuOG5ITkZkVno4RHp0dWdzOUxRWmJka0ZEQUJxeEJDN2NWaGpVdkZWMnJCak4zRWN6QjFSLUQtdXptNkJpSG5RQkFn0gFuQVVfeXFMTk9WYWlvblBubEJTVEdQcTBMUDZpdFU3NWowSDgtQ2ttZ3pvSnVmaFJrX3ZjcXBEekNFZk9fWl9jSUwxY2ItUlVWZGJhRDJCTUdDU2k4N3d6OHh2YlFheXlmZFRPU1QyMmpBcW9wYnc?oc=5",
+    "source": "머니투데이",
+    "published": "Thu, 05 Nov 2026 21:06:39 GMT",
+    "checked_at": "2026-11-05 22:26:09",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "고점 대비 반토막 난 삼전닉스…내년 실적 믿고 지금 사도 될까 - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zWXh3a3RhMG5GUC16ak43OS1zWGkzSnh5SGFNRTRvZDkzVmxrWlV3dGFNYlYtQTFYdm4tN2k4b1pueGdtZm8zTWJBNWl6Z3hpeHc?oc=5",
+    "source": "매일경제 마켓",
+    "published": "Thu, 05 Nov 2026 07:04:19 GMT",
+    "checked_at": "2026-11-05 22:26:09",
+    "sent": false
+  },
+  {
+    "stock": "하이트진로",
     "title": "젠슨 황도 반했던 ＇그 조합＇…완제품 소맥 나온다 - 한국경제TV",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZQkxJS2lOTmlKS1pMa3BjVHRRRndDdjAzYkR1MGh5N0ZBdkhBdTFNcnNUaXY1SUhQWC1ET2NTbmgtd3NONXVKWDRvaVo2SHF1Smt4Ti1TT2xhVUViNjVtbzRPOGthREFoSFNBRGVUbnB4cTJPXzJZ?oc=5",
     "source": "한국경제TV",
@@ -2643,60 +2697,6 @@
     "source": "마켓인",
     "published": "Thu, 29 Oct 2026 06:26:28 GMT",
     "checked_at": "2026-10-29 09:03:38",
-    "sent": false
-  },
-  {
-    "stock": "대한전선",
-    "title": "대한전선, 3분기 누적 매출 3.5조, 영업이익 1500억…역대 최대 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Nd2pEaUtkRV9WbVBFRVZBM21GZy1YN2JVTkQtMlJBMUpncXhjTC1xel9DeXhWbFBDS1AyNkpwaFE2X194T0xYZXA2cUVNY2FSaVRBRFN0eDhqeG9scHZQMzVjdTRQNTNfdGF0NFAyd0lldFNFSHQtX0hn0gF_QVVfeXFMTXdBUjI1QThDM3ZQVXdoZXNqV2pWWHBWSnNnS1lPWGhiZ1drdHZLRk9uMXBLdzd3cUJueVBDM3o3Y2lQclh5enVyU1JFT01DX1ZxZXg5OWlNa3lOQ3d4X1ZkQUhuWnJKbG12VlpKdlVjRmlTVFRYS0g5VzV3RXFNbw?oc=5",
-    "source": "머니투데이",
-    "published": "Thu, 29 Oct 2026 07:25:08 GMT",
-    "checked_at": "2026-10-29 09:03:38",
-    "sent": false
-  },
-  {
-    "stock": "대한전선",
-    "title": "대한전선, 3분기 영업익 309억원…전년比 4.5% 증가 - 뉴스1",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41bGkzQzZTYWRFRmxyUWhRUVFVVFNueDk1MTNYZkRMd1dySFdSVXVPVno5M19ERTJ6YUYyR2pZTTlQTzJLME9ia0FHcWNVYmEtVm43YVg1VENZYzlMOUM5blZ6bzA?oc=5",
-    "source": "뉴스1",
-    "published": "Thu, 29 Oct 2026 06:12:39 GMT",
-    "checked_at": "2026-10-29 09:03:38",
-    "sent": false
-  },
-  {
-    "stock": "대한전선",
-    "title": "대한전선 3분기 영업이익 309억으로 4.5% 증가, 기말 수주잔고 4.3조 - 비즈니스포스트",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1veVY4V09pXzF5WDFLbGZPRkxmd0hablNUV19QMVFvWm5RRC1aS2VWYXV0eURkMDduQlNaM2hyNWZxZmhiR1Itdzc2U2dsUDEwMUhjSlROZDNtbHFiWU9hSE10OVVOU3pEakZVZGlDSVM4SXM?oc=5",
-    "source": "비즈니스포스트",
-    "published": "Thu, 29 Oct 2026 08:16:59 GMT",
-    "checked_at": "2026-10-29 09:03:38",
-    "sent": false
-  },
-  {
-    "stock": "대한전선",
-    "title": "대한전선, 3분기 실적기록 경신…환율 하락에 단기 수익성은 ‘복병’ - 에너지경제신문",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iek0zcjJKc1Zmdk1mblVFbEItVXZ4QlRBRmEyTzVqU0p5WkRYVFdnQ0IyTHRISWxMMXcwbmxDdUN3QkM1dGV1LTF0amtuZ1hubFFvSlBZSVNULVRsekJtcV93VQ?oc=5",
-    "source": "에너지경제신문",
-    "published": "Thu, 29 Oct 2026 07:10:59 GMT",
-    "checked_at": "2026-10-29 09:03:38",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "“이러니 SK하이닉스로 가지”…투자자들, 삼성전자에 실망한 이유는 [머니+] - 에너지경제신문",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpTW1CdVM4Vm1fN3FGNmpDN2FBUFpBakpvOVJORUpuNzZRSUpZN3NDWElPTGsxOVNfNFdpTWRyanBKZ1UtQ0RPTHc2cFZ0YlplZUFNNVRrekRHeEtpTWlSM25ZSQ?oc=5",
-    "source": "에너지경제신문",
-    "published": "Thu, 29 Oct 2026 06:45:15 GMT",
-    "checked_at": "2026-10-29 09:03:37",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "\"SK하이닉스, AI 성장주 교과서…거품론 잠재워\" 외신 호평 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaRzBHQU9pbFJycjNKNkpqcUtSZ0dFWVNvTjVaOHl0QzdZa1FadHNmT1ZrZ01oTk1pYXpYV1ZfNnkzQkUwOC1YX25Dbkw4MnFoeEdyT3NIT2o2MVYtWFBVNnJ0bGVwd1Jq0gFuQVVfeXFMTlluNVh4UzN1R2xmMUZ6UlFNMGcwNzl2OXp5a3F2ZHAzd1QybnpJeDZTendubjlrTzE0SHU0RTBua1U3c2xQcEhGQzhUMVFyX3YzQm9FMnU0YUJHa2ZXVHBncGo2RUs2YlZDQ3NWb1E?oc=5",
-    "source": "머니투데이",
-    "published": "Thu, 29 Oct 2026 01:10:11 GMT",
-    "checked_at": "2026-10-29 09:03:37",
     "sent": false
   }
 ]
