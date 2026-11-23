@@ -1,6 +1,123 @@
 [
   {
     "stock": "하이트진로",
+    "title": "하이트진로, 한정판 맥주 2종 출시 - 중소기업신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qY3lFaEloSV9fNXhWNzFyWlBSa0gzUW43dXdXT2N4bGs4eTBXdGxUNW9xUEpnS1VRalRJUEtOZkNHSVk5NmFqNE1EV0xfVUlvSEdOSnJEWHRub1hJeWU5N21zQ3VVemc5QTBTag?oc=5",
+    "source": "중소기업신문",
+    "published": "Mon, 23 Nov 2026 02:15:48 GMT",
+    "checked_at": "2026-11-23 11:17:37",
+    "sent": false
+  },
+  {
+    "stock": "하이트진로",
+    "title": "연말 홈파티족 잡아라…하이트진로, 테라·켈리 한정판 출시 - SBS Biz",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92U3FJUmdkVFZzWUxCdTQ2aUJTSTRZT3F1MVNBd3UxenZpUnBuZDZwMWE3OFJhcFNUbnBRa1ZXOFZaVzNMalBnOG5tVktQeHd6SFhj0gFYQVVfeXFMTS1qWFFZelJpMUdLOWRkU3k1UDhoZ05xZXROX2I1TEpoSGxMQnp6d09pT01QVlROaWRQaTc5WjgxMzFPNE00bjBsaXdMbzM4Qmc3TDdrVjh5aw?oc=5",
+    "source": "SBS Biz",
+    "published": "Mon, 23 Nov 2026 01:08:00 GMT",
+    "checked_at": "2026-11-23 11:17:37",
+    "sent": false
+  },
+  {
+    "stock": "하이트진로",
+    "title": "하이트진로, ‘한정판’ 테라·켈리…특별한 원료 담았다 - 헤럴드경제",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HRVZWXzVHcFVXemlCbjZsYVFZakhHNWQ2TzFFd2lITGNGMC11ZWlRUHdmNExfNmRhWG5xZnVxOXh1Y01yNFh1dXE1RDJacWlHRWJ6MjhKaw?oc=5",
+    "source": "헤럴드경제",
+    "published": "Mon, 23 Nov 2026 01:48:45 GMT",
+    "checked_at": "2026-11-23 11:17:37",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "코스피 5% 폭락에 매도 사이드카…장중 4500선까지 - 한겨레",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Z1EyaE0xU2ttdmZsYW11ZkkzZU9IdmRVZWp1am0xbjY1Y0FJN2w0UE5nRmJrS2pYSV9EbkNvUFFpRkVKREF2NFNFTEJNcGU4bTlabnhHN0JCVmZ4Qk9BbS1OejZUcjA?oc=5",
+    "source": "한겨레",
+    "published": "Mon, 23 Nov 2026 06:13:00 GMT",
+    "checked_at": "2026-11-23 11:17:34",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "[한화세미텍의 민낯] SK하닉에 18개월째 1000억 담보…TC 본더 경쟁력 '물음표' - 딜사이트",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UNFVDSm5NMENKUE9uWVB2V2VPYkV0MFg0YWFXTUFWR2pNSGs0dXRkOTNKSUl1aTZzYU9iTVFfMGtrX0RNMS1KdF93ZHlYOTA?oc=5",
+    "source": "딜사이트",
+    "published": "Sun, 22 Nov 2026 22:05:40 GMT",
+    "checked_at": "2026-11-23 11:17:34",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "\"칩 장기 계약 10년 넘어 20년까지\"…메모리 반도체 '슈퍼을' 된다 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02SnNNcUpXN1hIQ092aDdUZmZ4SEF3UDFUbTdFY2h4NmhpcnFyUUtKNzBTVTNISjVISm5zOHhCUHNhWjJzdlpzdEVpcXEzOFBESWpDM1pmQ1k2dw?oc=5",
+    "source": "한국경제",
+    "published": "Sun, 22 Nov 2026 23:41:12 GMT",
+    "checked_at": "2026-11-23 11:17:34",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "단일종목 레버리지 또 최저가…SK하이닉스 ETF 2천원대 '풀썩' - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0bmtNampISXJjQWVpQWcxQmIwanEwZWYtYTlDVy0yVXp6TWtweDdkS25Ydm5GZkxZWWJsZHc1R3pPYzRSX1pJckZrWXRfUEU5cmduM1M3NjhNYmvSAWBBVV95cUxOODJGSTd6dVVQekc3S0RndXFmTkxCelQ3UEJXajN6bU9tWE9NUGN1czMtYTRWMWVvRUtDcS1OMGUxWTlYT3dtLU81VjRxOF9UWXZHZmhDaTVlLUZ4MVg4U04?oc=5",
+    "source": "연합뉴스",
+    "published": "Mon, 23 Nov 2026 07:25:13 GMT",
+    "checked_at": "2026-11-23 11:17:34",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "SK하이닉스 ETF 2천원대로 추락…단일종목 레버리지 또 '최저' - SBS 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9feFM1cG9QcW1lZ2JJUmJRYWk4MWNud1JvcHI5WFFkNFA3TVBOb0I5amZtMENpdm8yRFktSnhnXzdUbXQ0X0pRVS10Z0drdk5SNkpwQnNlblhNX2pVTHZZNUN2VldQcmdObXc?oc=5",
+    "source": "SBS 뉴스",
+    "published": "Mon, 23 Nov 2026 09:52:02 GMT",
+    "checked_at": "2026-11-23 11:17:34",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "'자사주 실탄 15조'…13조 남은 SK하이닉스 달릴까 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ibm4xVW1fdUlkbm5YWWpyR2RMUm10dktLMkRkYkswQkFOMWI3S2Q3bUE1OF84SGgtQnkyY0dGLW9uUnlQdS1rLVA1Y3Z6VXg4bUN6OERCeU4tYjhQbWl1TjZ2ZThqZmZBbVZKMkVEU3FBSjRmVVHSAXtBVV95cUxQcHh4STZOQ21yMndjQjJJeWU0b0NWaklSYlBBWVNTSHJpUVRFUzIta3RTVEk4VlBadXpxRDkyMDVHVVRTY0s2LUhGd3gwTmpEaVozLTlwZC1RQ0FXWGhfX1RFcVlzcnZiSnZBSUVGZlJZQkxlU3o1UVYtVWM?oc=5",
+    "source": "머니투데이",
+    "published": "Mon, 23 Nov 2026 07:25:27 GMT",
+    "checked_at": "2026-11-23 11:17:34",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "윤풍영 SK하이닉스 사장, 16억원 상당 자사주 1500주 매입 - 동아일보",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBc1ktclBBZHpXcEw1N1BKMks3cExucExCRmRBdEVWdlBFYWpGNWRMaTZ5MGpsV3Y4a2ZGQ2d1U3VoUHNzQzc3dUt1eGttV2p6YTA4RFNSSHhiZVNCSUwyRVhjOXppZ3dzX0dvV1c1MTFkb0MyQkHSAWZBVV95cUxPMUYzeXdGZEhzTWRiWGVmQ0NEMHhJb2NsUzBocXpvQ2dZdVJXREFtRGcxT0V6SWhLa0Y1OUNwcnRJLXAzWWRja1p0ZVl4ajIwcGtjRmRxaXdySHFxM0tOeDFhYkVaRWc?oc=5",
+    "source": "동아일보",
+    "published": "Mon, 23 Nov 2026 09:03:05 GMT",
+    "checked_at": "2026-11-23 11:17:34",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "골드만삭스, 삼전닉스 목표주가 하향 … \"2028년 메모리 가격 하락\" - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa1dOU1puUnRiZDUydzdUN2lMTmR2UGg1XzlYYUJ4cHhKSGNwTkw2dVMwUU11OENUZEpDU2ZBV1FuSU9uN09ZdG9rMm5FbDlMUzR0cXF0amlqNTUwdnV0M1ozNUNKSE5vVWZVSGV0WVI4ZDZuYzc2TlpZd244R041Vk5heHN2NWh3?oc=5",
+    "source": "Chosunbiz",
+    "published": "Mon, 23 Nov 2026 10:53:00 GMT",
+    "checked_at": "2026-11-23 11:17:34",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "SK하이닉스 폭락 두 번 맞힌 애널리스트, 또 “더 떨어진다” 경고 - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRQWlVNUZZc1gxcnFxem5Za2dZQlFwRnRrRW42OGh6VUFIVmtDaEFudlk0Uk5tOHhtc0dYVHc1REVfekpYYnNOOUx2MnJmazZyQWdnUzBTalljQdIBX0FVX3lxTE9WcXZWMkx1dmVRWmU3OHhTQm8wekQtTWR0QVJfb21TQ3dRYzhVNTB1dHpIOG1CZEhJbXJSeG43WW5OVERWbm55TC16UEJXang1X1h0TFlrTUFraElrUFl3?oc=5",
+    "source": "경향신문",
+    "published": "Mon, 23 Nov 2026 07:30:00 GMT",
+    "checked_at": "2026-11-23 11:17:34",
+    "sent": false
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "코스피 하락에 삼성전자ㆍSK하이닉스도 하락 마감 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05eldiT1N6aTZ5eXNITGNGNEZVNGdUMFd0bkVraUlmTkNkRkVhUDBhWDRGbGtWbm9GUGtxaXk5R0pPZkRJWW8xbmhRR3BKOFpJMEVmdURpaWlIYWfSAWBBVV95cUxNaVNzZFJMc0JJSTZwV0JISl9MLVhxVmV1YXhBR0FaeGY1SG5weVRfQ3Ezd0FtTFh0c211NklxZlBtM3pWOU5aZkxZWWtUYXpFejlZa3JvdnVhSWkwQkY4MFE?oc=5",
+    "source": "연합뉴스",
+    "published": "Mon, 23 Nov 2026 07:10:06 GMT",
+    "checked_at": "2026-11-23 11:17:34",
+    "sent": false
+  },
+  {
+    "stock": "하이트진로",
     "title": "하이트진로, '테라 싱글몰트·켈리 유기농' 한정판 맥주 출시 - 매일경제 마켓",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nVHB4c2ZMSWVydW1sVDkyUUFVUmlDb0VyRUtKQ0pab0Q5X1BLdGJsSkVUTkxGWDk4UmdsTUZxamdSSEFQam9IaTdmZHUwNXU3bFE?oc=5",
     "source": "매일경제 마켓",
@@ -2580,123 +2697,6 @@
     "source": "Chosunbiz",
     "published": "Fri, 13 Nov 2026 08:45:00 GMT",
     "checked_at": "2026-11-13 16:35:42",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "하이트진로, 3Q 영업익 577억 6.2%↑…\"주류시장 위축에도 효율성 강화\" - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DMEVWRU5xdjN0aDIwUjZzRFlYUEE5b1VtZlFuMl9ZbG9taWNDTnBXYzRtR1NvRkdCQmJXYWZDTlVOV0lhVU45MzBST0QtQ0s4RHFIbjVxZHlvLUtyNm9ZS2k3aHRGWUE5NXfSAW9BVV95cUxObVRwZnB3V3k4QV80S1lxRjU3NTVCZmtEak9HR01TOGZ5YmdKdmtQYUc4Uy1UR245SzFyNURZY0paWmVtSURSSGlFblhOR0JsWXRmUHBZMzRZZFppQWh2bzhHOXFURkNvNjF5bk5JZTA?oc=5",
-    "source": "머니투데이",
-    "published": "Fri, 13 Nov 2026 06:46:58 GMT",
-    "checked_at": "2026-11-13 16:35:42",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "지앤비에스에코, SK하이닉스·인도 태양광 '쌍끌이'…연매출 기록 9개월 만에 깼다 - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaNy1tTHAzMmpUN3A2eGIxanF0QUJnRGRHMU9iUExsYWtMSHQydWVzMEFlSlpRM1BlM2ZCOTdnQ09vRWZRNXNNMFJKTF9fdFFCcnNTRVA0MjExZw?oc=5",
-    "source": "파이낸셜뉴스",
-    "published": "Fri, 13 Nov 2026 07:21:57 GMT",
-    "checked_at": "2026-11-13 16:35:39",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "엔비디아 주가 하락 \"시작에 불과\" 관측 나와, 삼성전자 SK하이닉스에 영향은 미지수 - 비즈니스포스트",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yQkxlVk5TQkJCM1hWN3pCQW9CMnZfQUI1SXRYeEJ2d0llVlVmZlY1UklJOEFGZU9vRVlwUUZfNkdrOGg3U0J3UkF0aFdUaTB2bmg2Z3J6UHc2c2RTbW00enJVZDBBTk96UGdqN3NFSTg3NTQ?oc=5",
-    "source": "비즈니스포스트",
-    "published": "Fri, 13 Nov 2026 02:21:40 GMT",
-    "checked_at": "2026-11-13 16:35:39",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "[영상] SK하이닉스 ‘킹산직’ 채용 개시…학력 제한 철폐에 지원 열기 ‘후끈’ - 서울경제",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BMzBESFp1VzM4QUFTVy1kZzhoakszUVFBcXRWcjZiaTIxUHVaeDF6emlMdTNfcElINTVTTnZ1VU9IY0RfbGxfdVliN0o3RUdWY2c?oc=5",
-    "source": "서울경제",
-    "published": "Thu, 12 Nov 2026 04:22:21 GMT",
-    "checked_at": "2026-11-13 16:35:39",
-    "sent": false
-  },
-  {
-    "stock": "SK하이닉스",
-    "title": "SK하이닉스, 저전력 D램 안전·보안 인증 확대...피지컬 AI 메모리 공략 속도 - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KLUF1aFpoUlhKMzBNUXhaRVNnSXZsbmNSdG1TMF9OTUZDX1Jra2t1RDVrQ0RZNk53ekQ0bGI4dzUtT290UHFwMUQ3R3hXWXVPMkl3SWs1bXZuZw?oc=5",
-    "source": "파이낸셜뉴스",
-    "published": "Wed, 11 Nov 2026 02:18:28 GMT",
-    "checked_at": "2026-11-13 16:35:39",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "하이트진로, 3Q 영업익 577억 6.2%↑…\"시장 침체 속 수익성 개선 효과\" - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tOU83NEFDWHc0OG01UjhWVVJEY3RGQ2JwV0RuSkZjTkwySHRYbjM0SzhzMS1hSWdJSTNnRENqdDVVMk5wYmFzVzJPaVdWd25ERTEwSW83UExvQ0t6WExENdIBeEFVX3lxTE1KN1NQLTljSE9PdTZqWnFhVTZjTlRFT0FQRjBmbU95aXVLYlhVYVA1VGVhVGJQWW9pM1h3Q2dKRmh0UUpqYXJ1cng5V21DLWFDT3FXQWNnVmlXUUJRNEZ3aEQ1UlRyQTFXeUtmRHVKY245UUdpV0drNg?oc=5",
-    "source": "뉴시스",
-    "published": "Fri, 13 Nov 2026 06:26:01 GMT",
-    "checked_at": "2026-11-13 08:16:05",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "하이트진로 3분기 매출 6324억으로 5.5% 후퇴, 광고비 줄어 영업이익 증가 - 비즈니스포스트",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IVWN6b0hJS083QUsyemJjd3R1UURaYUR4eDEwSUlQZUNNT0RMN1g4eWVuQXQwbTEtWU9rMWJxNVF1ZWtrdC1FUl8tVk5nUHY3VTY1NTBDN2hWbm5aNnJ6UnR1V0ZXR01UaDRHckdncmxHams?oc=5",
-    "source": "비즈니스포스트",
-    "published": "Fri, 13 Nov 2026 08:09:03 GMT",
-    "checked_at": "2026-11-13 08:16:05",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "산타와 숨은 두꺼비 찾기…하이트진로, '테라 크리스마스 에디션' 출시 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JRG03em5YZ2Z1WUlhaHpEeWl1OTFIV2RjRDNHeHpBMlNRWXlBdG1Zci1WdFZYMFJKaVRkS1c5eXRZNVJhVW1penMybXQ0NVVNWVlhcC1Id3EwQ241UWh4S0R1WTQ2blhSWVB2ME1ZcmEyckhqWmFZ0gF8QVVfeXFMTWtTeHBjM0ppdm5ZVkRMQ0FsNHotMDNtRWliV0RUODRLZVg4MlhodUxzeHF6Q1ppUVNxQ2dwWS1RbEdQTVVXeTRkVGxsOW91Y0NLY04tX1lYREV1SEVqbFVDcDliWENtbmRzcUFrQmtnUm42WHhueDNHU3phUw?oc=5",
-    "source": "머니투데이",
-    "published": "Fri, 13 Nov 2026 01:59:24 GMT",
-    "checked_at": "2026-11-13 08:16:05",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "하이트진로, 3분기 영업이익 577억원…작년 동기 대비 6.2% 증가 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mQjBvd0RhM2l6ZFBxVjNfZjRFbERzYlpEQWVvS1p5NllPczh6WXZUamFiYUpWR2JpVzNsMDNVX0p5OUExRmJldkM5YmN2T1cwWjNFb2RDbENYN0XSAWBBVV95cUxNWVVCZElTVDVBWEZ3UXItZ1ZJemJnWng5WkMyQ05JTmRlNWRZaG1FN2tpZ1N5OGljWXdNUTlkeDh1cmQ2NHFEU1ZoR19Rb1ZOSVZBT0ZHSGgtQjFoVUFqbVg?oc=5",
-    "source": "연합뉴스",
-    "published": "Fri, 13 Nov 2026 06:22:30 GMT",
-    "checked_at": "2026-11-13 08:16:05",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "하이트진로, 3Q 영업익 6.2% 증가…\"효율화로 실적 개선\" - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84TlJ3NEhYWTZHQzM2ZTloNFQwYUEzN3ZiOFhta2JndnI3YmZ3bmJOcTcwU2JaUjNlcWNPV3N5WFVybkVieTJGa3RSejlNOVphMy12dGR2SHZVNGE5?oc=5",
-    "source": "뉴스핌",
-    "published": "Fri, 13 Nov 2026 06:37:00 GMT",
-    "checked_at": "2026-11-13 08:16:05",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "하이트진로, 제주 해변서 환경정화 활동…“ESG 강화” - 헤럴드경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWbmZKRGc2WjBlTTlZSFoyUnhxbDVqVmlMbUFEc1J6SXB2WU5OS2Y3eVR5R25Hc3hvVFZNVlR6clV0MkR0em5UNVdmcVRkQzRrWWFGaUhn?oc=5",
-    "source": "헤럴드경제",
-    "published": "Fri, 13 Nov 2026 02:29:20 GMT",
-    "checked_at": "2026-11-13 08:16:05",
-    "sent": false
-  },
-  {
-    "stock": "하이트진로",
-    "title": "산타와 숨은 두꺼비 찾기…하이트진로, '테라 크리스마스 에디션' 출시 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MZ3ZLQzdiZ3h1cWRIOW9ibkxmd0VsbWU4aXNTS0lIeEl3TmF4ZDJyNnZnaXh0TTJsZmlTclpnT09oaEppdDM4TXJjU3BkOWtLbklDcjlrZE1XUWY5dUc0Zk9CYXBtNU5KNmfSAW9BVV95cUxNNlFxOE5DNTN3UFR4RFpTOE9QMlk4cE5qb0hQWmM1T0htem00cEVZTGJ1WlBfSTN1WmdJbGM4X0xqZ1BWQ1JvQ1RKNmE1elY1Uy1wV0tEQ2QwYTB2UWhEODg3ZHZZdE5XcHpsYnJ4QmM?oc=5",
-    "source": "머니투데이",
-    "published": "Fri, 13 Nov 2026 01:59:24 GMT",
-    "checked_at": "2026-11-13 08:16:05",
-    "sent": false
-  },
-  {
-    "stock": "일진전기",
-    "title": "[오늘 이 종목] 소캠2성장궤도 진입 '티에프이' · 전력 사이클 '일진전기' - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XRWppQmVPb2JZS0VjajFGbm1hc084bVBqSnd6VUkxLUNHSWViVWU0OGVVUWVNYWwzTU5wTTRhVXpyNzZfV1doa3NIX2xGbzUxS1MwWUFOV2owTjFFbGVQakpEU1lfUGw10gFuQVVfeXFMTjFCLUpQZlM1MEZtZjNucUVyZVduTlBOdlBtM0F2dzBfYkxnWUhPdldPZ3BpWEc0bklfRmdkcEplVmtXNHFJM3ptWlBJVDhxR21GU2FXTmR2Rm16WUNnM2k1Qk4wcTVrakRhVEdTdGc?oc=5",
-    "source": "머니투데이",
-    "published": "Fri, 13 Nov 2026 02:41:02 GMT",
-    "checked_at": "2026-11-13 08:16:04",
     "sent": false
   }
 ]
